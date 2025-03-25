@@ -1,0 +1,1 @@
+## CMAKE_C_STANDARD 11
